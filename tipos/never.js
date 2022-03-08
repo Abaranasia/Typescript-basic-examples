@@ -1,6 +1,4 @@
 "use strict";
-/* El tipo never indica que nuestra función no debe terminar con éxito, es decir
-no debe tener un punto alcanzable al finalizar su ejecución */
 const abc = (message) => {
     throw new Error(message);
 };
@@ -11,3 +9,4 @@ const cde = (message) => {
     }
     return 1;
 };
+//# sourceMappingURL=never.js.map

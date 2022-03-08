@@ -8,5 +8,6 @@
     const activateBatSignal = () => {
         return "Batseñal activada";
     };
-    const heroName = returnName(); // tipo implicito por el return de la función
+    const heroName = returnName();
 })();
+//# sourceMappingURL=functions.js.map
