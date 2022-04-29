@@ -104,6 +104,6 @@
     "anotaciones/*.*"
   ],
   "include": [
-    "interfaces"
+    "namespaces"
   ]
 }
